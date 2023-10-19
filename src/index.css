@@ -1,0 +1,46 @@
+.task
+{
+max-width: 400px;
+margin: 0 auto;
+text-align: center;
+background-color:mistyrose;
+}
+.task label
+{
+    text-align: left;
+    display: block;
+}
+.task h2
+{
+    font-size: 20px;
+    color:darkslateblue;
+    margin-bottom:30px;
+}
+.task input,.task textarea,.task select
+{
+    width: 100%;
+    padding: 6px 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+    background-color:whitesmoke;
+}
+.task button
+{
+    background-color:darkslateblue;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.list-group 
+{
+    max-width: 800px;
+    margin:  auto;
+    text-align: center;
+    
+}
